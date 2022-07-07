@@ -1,0 +1,2 @@
+# AspNetCoreDemoApplication1
+AspNetCoreDemoApplication
